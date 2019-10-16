@@ -1,0 +1,24 @@
+.pink-selector {
+  background-color: pink;
+}
+
+.green-selector {
+  background-color: #008000;
+}
+
+.lightgreen-selector {
+  background-color: #4E9258;
+}
+
+.black-selector {
+ color: black;
+}
+
+.divider {
+  color: black;
+}
+
+.font-bold {
+  font-weight: bolder;
+  color: black;
+}
